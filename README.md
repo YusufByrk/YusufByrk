@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello, I'm Yusuf Kenan Bayrak
+# I'm Yusuf Kenan Bayrak
 
 ## About Me
 Combining my interest in data science and data analytics with my analytical skills, I strive to derive meaningful insights by delving into data. My goal is to make data-driven strategic decisions by melding data analysis, exploratory data analysis, and visualization.
