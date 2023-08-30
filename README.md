@@ -7,7 +7,7 @@ Combining my interest in data science and data analytics with my analytical skil
 
 ## Skills
 - Data Science and Data Analytics
-- Proficient in Python, SQL, and DAX
+- Proficient in Python, JavaScript, SQL, and DAX
 - Data preprocessing and cleansing
 - Exploratory data analysis and statistical modeling
 - Data visualization and reporting
@@ -25,7 +25,7 @@ Mit meinem Interesse an Datenwissenschaft und Datenanalyse und meinen analytisch
 
 ## Fähigkeiten
 - Datenwissenschaft und Datenanalyse
-- Erfahrung in Python, SQL und DAX
+- Erfahrung in Python, JavaScript, SQL und DAX
 - Datenaufbereitung und Datenbereinigung
 - Explorative Datenanalyse und statistische Modellierung
 - Datenvisualisierung und Berichterstellung
